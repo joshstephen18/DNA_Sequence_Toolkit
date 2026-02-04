@@ -3,9 +3,13 @@ DNA Sequence Analyzer
 Project Description: This program is designed to allow users/researchers to input DNA sequences in the form of FASTA files for analysis. It allows users to calculate nucleotide statistics, calculate GC content, identify restriction enzyme sites, generate reverse complements, and count codons. Furthermore, an optional feature includes plotting nucleotide composition for visual analysis.
 
 Usage:
+
 -run the program (main.py)
+
 -enter the path to your FASTA file when prompted (for test case, enter: test_sequence.fasta
+
 -follow the prompts, and the program will output the following: sequence length, GC content (%), nucleotide counts, restriction enzyme sites, reverse complement, codon counts, and an nucleotide composition bar chart if "y" is typed when prompted.
+
 
 FASTA File Example
 >test_sequence
