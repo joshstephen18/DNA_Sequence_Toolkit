@@ -1,4 +1,4 @@
-<u>DNA Sequence Analyzer</u>
+DNA Sequence Analyzer
 
 Project Description: This program is designed to allow users/researchers to input DNA sequences in the form of FASTA files for analysis. It allows users to calculate nucleotide statistics, calculate GC content, identify restriction enzyme sites, generate reverse complements, and count codons. Furthermore, an optional feature includes plotting nucleotide composition for visual analysis.
 
