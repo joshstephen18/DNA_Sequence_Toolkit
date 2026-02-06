@@ -12,7 +12,7 @@ Project Description: This program is designed to allow users/researchers to inpu
 
 🔄 Sequence Manipulation: Generate reverse complements instantly.
 
-📊 Visualization: Optional bar chart generation for composition analysis.
+📊 Visualization: Optional bar chart generation for nucleotide composition analysis.
 
 
 ## Getting Started / Usage:
