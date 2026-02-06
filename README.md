@@ -13,13 +13,14 @@ Features:
 🔄 Sequence Manipulation: Generate reverse complements instantly.
 
 
-Usage:
+🚀 Getting Started / Usage:
+1. Ensure installation of libraries (pip install numpy matplotlib) and clone this repository.
 
-1. Run the program (main.py)
+2. Run the main script (main.py)
 
-2. Enter the path to your FASTA file when prompted (for test case, enter: test_sequence.fasta)
+3. Enter the path to your FASTA file when prompted (for test case, enter: test_sequence.fasta)
 
-3. Follow the prompts, and the program will output the following: sequence length, GC content (%), nucleotide counts, restriction enzyme sites, reverse complement, codon counts, and a nucleotide composition bar chart if "y" is typed when prompted.
+4. Follow the prompts, and the program will output the following: sequence length, GC content (%), nucleotide counts, restriction enzyme sites, reverse complement, codon counts, and a nucleotide composition bar chart if "y" is typed when prompted.
 
 
 FASTA File Example
@@ -28,25 +29,11 @@ ATGCGATACGCTTGAATTCGCGCGATAG
 
 Expected Output for Example:
 
-Sequence Length:
-28
-
-GC content (%):
-50.0
-
-Nucleotide counts:
-A: 7
-T: 7
-G: 8
-C: 6
-
-Restriction enzyme sites:
-EcoRI found at positions: [14]
-, BamHI not found
-, HindIII not found
-
-Reverse complement:
-CTATCGCGCGAATTCAAGCGTATCGCAT
+Sequence Length: 28
+GC content (%): 50.0
+Nucleotide counts: A: 7 T: 7 G: 8 C: 6
+Restriction enzyme sites: EcoRI found at positions: [14], , BamHI not found, HindIII not found
+Reverse complement: CTATCGCGCGAATTCAAGCGTATCGCT
 
 Codon counts:
 ATG : 1
