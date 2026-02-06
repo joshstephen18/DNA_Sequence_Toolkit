@@ -64,6 +64,6 @@ Do you want to see a nucleotide composition plot? (y/n): y
 
   Libraries used:
   1. NumPy for numerical operations
-  2. matplotlib for nucleotide composition bar chart
+  2. Matplotlib for nucleotide composition bar chart
   3. collections (Python standard library) - specifically Counter for counting codons and nucleotides
 
