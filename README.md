@@ -13,7 +13,7 @@ Features:
 🔄 Sequence Manipulation: Generate reverse complements instantly.
 
 
-🚀 Getting Started / Usage:
+Getting Started / Usage:
 1. Ensure installation of libraries (pip install numpy matplotlib) and clone this repository.
 
 2. Run the main script (main.py)
