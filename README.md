@@ -4,15 +4,15 @@ Project Description: This program is designed to allow users/researchers to inpu
 
 ## 🌟 Features
 
-🧮 Nucleotide Statistics: Total length and automated counts for A, T, C, and G.
+1. Nucleotide Statistics: Total length and automated counts for A, T, C, and G.
 
-🧪 GC Content: Precise percentage calculation for stability analysis.
+2. GC Content: Precise percentage calculation for stability analysis.
 
-✂️ Restriction Mapping: Identifies EcoRI, BamHI, and HindIII sites.
+3. Restriction Mapping: Identifies EcoRI, BamHI, and HindIII sites.
 
-🔄 Sequence Manipulation: Generate reverse complements instantly.
+4. Sequence Manipulation: Generate reverse complements instantly.
 
-📊 Visualization: Optional bar chart generation for nucleotide composition analysis.
+5. Visualization: Optional bar chart generation for nucleotide composition analysis.
 
 
 ## 🚀 Getting Started / Usage
@@ -25,7 +25,7 @@ Project Description: This program is designed to allow users/researchers to inpu
 4. Follow the prompts, and the program will output the following: sequence length, GC content (%), nucleotide counts, restriction enzyme sites, reverse complement, codon counts, and a nucleotide composition bar chart if "y" is typed when prompted.
 
 
-## ⚙️ FASTA File Example
+## 📊 FASTA File Example
 >test_sequence
 ATGCGATACGCTTGAATTCGCGCGATAG
 
