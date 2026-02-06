@@ -35,7 +35,7 @@ GC content (%): 50.0
 
 Nucleotide counts: A: 7 T: 7 G: 8 C: 6
 
-Restriction enzyme sites: EcoRI found at positions: [14], , BamHI not found, HindIII not found
+Restriction enzyme sites: EcoRI found at positions: [14], BamHI not found, HindIII not found
 
 Reverse complement: CTATCGCGCGAATTCAAGCGTATCGCT
 
