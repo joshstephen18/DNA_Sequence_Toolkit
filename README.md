@@ -4,13 +4,15 @@ Project Description: This program is designed to allow users/researchers to inpu
 
 Features:
 
-🧬 Nucleotide Statistics: Total length and individual counts.
+🧬 Nucleotide Statistics: Total length and automated counts for A, T, C, and G.
 
-📊 GC Content: Precise percentage calculation.
+🧪 GC Content: Precise percentage calculation for stability analysis.
 
-✂️ Restriction Mapping: Identify sites for EcoRI, BamHI, and HindIII.
+✂️ Restriction Mapping: Identifies EcoRI, BamHI, and HindIII sites.
 
 🔄 Sequence Manipulation: Generate reverse complements instantly.
+
+📊 Visualization: Optional bar chart generation for composition analysis.
 
 
 Getting Started / Usage:
